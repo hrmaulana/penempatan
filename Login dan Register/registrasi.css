@@ -1,0 +1,99 @@
+h1 {
+  text-transform: uppercase;
+  color: #061c29;
+  text-align: center;
+  font-weight: 800;
+  font-size: 30px;
+  font-family: monospace;
+}
+body {
+  background-color: #061c29;
+  background-image: url(file:///D:/Udemy%20Course/Project%201/space-with-stars-universe-space-infinity-background_78474-99.jpg);
+}
+button {
+  background-color: #04aa6d;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  font-family: monospace;
+  font-size: 20px;
+  border-radius: 10px;
+}
+button:hover {
+  opacity: 0.8;
+}
+input[type="text"],
+input[type="password"] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+a {
+  color: blue;
+}
+a:hover {
+  color: royalblue;
+}
+a:active {
+  color: red;
+}
+.container {
+  background-color: #f1f1f1;
+  width: 500px;
+  height: 700px;
+  border: 20px white;
+  margin-right: auto;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-bottom: auto;
+  padding: 10px;
+  box-shadow: 12px 12px 2px 1px rgba(238, 238, 238, 0.2);
+  border-radius: 5px;
+}
+form {
+  border: #f1f1f1;
+}
+span.psw {
+  float: right;
+}
+
+.container {
+  padding: 16px;
+}
+label[class="user"],
+label[class="pass"],
+label[class="passkon"],
+label[class="nama"],
+label[class="prodi"] {
+  text-align: right;
+  color: black;
+  font-weight: 800;
+  font-size: 20px;
+  font-family: monospace;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  width: 70%;
+}
+input {
+  border-radius: 10px;
+}
+select {
+  border-radius: 10px;
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
